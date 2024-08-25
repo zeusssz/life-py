@@ -67,9 +67,7 @@ class EukaryoticCell:
 
 def main():
     cell = EukaryoticCell()
-    start_time = time.time()
-
-    while time.time() - start_time < 30:
+    while True:
         cell.tick()
         time.sleep(1)
 
