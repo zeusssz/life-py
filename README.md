@@ -25,9 +25,9 @@ I'll be adding more things, like simulating more life processes eventually.
 Clone the repository and run the simulation script:
 
 ```bash
-git clone https://github.com/yourusername/eukaryotic-cell-simulation.git
-cd eukaryotic-cell-simulation
-python simulation.py
+git clone https://github.com/zeusssz/life-py.git
+cd life-py
+python main.py
 ```
 
 ## Usage
